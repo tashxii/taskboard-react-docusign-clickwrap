@@ -8,7 +8,7 @@ For details of "Clickwrap", see the following.
 - https://developers.docusign.com/click-api/guides
 
 # How it works(Image)
-[work image](https://github.com/tashxii/taskboard-react-docusign-clickwrap/blob/master/img/2019ApiWorldHackathon.gif)
+![work image](https://github.com/tashxii/taskboard-react-docusign-clickwrap/blob/master/img/2019ApiWorldHackathon.gif)
 
 
 # Setup for developmenet
