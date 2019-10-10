@@ -4,7 +4,6 @@ import InnerHTML from "dangerously-set-inner-html"
 
 const clickwrapCode = (clientUserId) => `
 <div id="ds-clickwrap"></div>
-<script src="https://demo.docusign.net/clickapi/sdk/latest/docusign-click.js"></script>
 <script>docuSignClick.Clickwrap.render({
 environment: 'https://demo.docusign.net',
 accountId: '285963de-04f6-4029-bfb1-8b0967a2feac',

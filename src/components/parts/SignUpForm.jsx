@@ -104,7 +104,11 @@ class SignUpForm extends Component {
           destroyOnClose
           width={500}
         >
-          <TermsOfConditionsView/>
+          <div>
+            Terms and Conditions is loading. Please wait a while.<br/>
+            After press "Agree" button, close this window.
+            <TermsOfConditionsView/>
+          </div>
         </Modal>        
       </div>
     )
