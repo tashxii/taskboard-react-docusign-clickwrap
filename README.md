@@ -23,12 +23,12 @@ For Mac
 
 # Build
 ```
-yarn build
+npm run-script build
 ```
 
 # Explore Taskboard application
 
 ```
-yarn start
+npm run-script start
 ```
 Connect to localhost:3000
